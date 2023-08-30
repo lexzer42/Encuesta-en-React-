@@ -15,7 +15,7 @@ Una vez completado, puedes compartir tu solución proporcionando el código fuen
 ¡Buena Suerte en el desafío!
 
 ## Ejemplo de JSON
-json
+```json
 {
   "preguntas": [
     {
@@ -45,6 +45,7 @@ json
     }
   ]
 }
+```
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
