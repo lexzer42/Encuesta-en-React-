@@ -1,4 +1,5 @@
-![164shots_so](https://github.com/lexzer42/Encuesta-en-React-/assets/134535937/63d96905-72c6-491a-9979-3756878bd408)
+![164shots_so](https://github.com/lexzer42/Encuesta-en-React-/assets/134535937/f07bfa5f-d3ac-480f-a9ae-0d78f2e0ec23)
+
 
 Desafío: Desarrollo de una encuesta en React con preguntas y valoraciones
 Descripción: 
