@@ -14,7 +14,8 @@ Entrega:
 Una vez completado, puedes compartir tu solución proporcionando el código fuente en un repositorio GitHub u otra plataforma de alojamiento de código. Asegúrate de incluir instrucciones claras sobre como ejecutar y probar la aplicación
 ¡Buena Suerte en el desafío!
 
-JSON de ejemplo:
+## Ejemplo de JSON
+json
 {
   "preguntas": [
     {
